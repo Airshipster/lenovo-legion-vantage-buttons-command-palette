@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "LenovoVantageDockExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "LenovoVantageDockExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
